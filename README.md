@@ -17,6 +17,6 @@ wget 사용
 
 ---
 
-All copyrights are available to [**Minecraft**](https://www.minecraft.net/ko-kr).
+All copyrights are available to [**Minecraft**](https://www.minecraft.net).
 
 ___
