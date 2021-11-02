@@ -1,6 +1,6 @@
 ___
 
-# Optifine-Installer
+# Optifine-Installer-Linux
 
 리눅스 전용
 
