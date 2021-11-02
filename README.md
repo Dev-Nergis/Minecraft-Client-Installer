@@ -17,7 +17,7 @@ wget 사용
 
 ---
 
-"[Minecraft](https://www.minecraft.net)" is a trademark of Mojang AB
+"[**Minecraft**](https://www.minecraft.net)" is a trademark of Mojang AB
 
 Minecraft [Eula](https://account.mojang.com/documents/minecraft_eula)
 
