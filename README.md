@@ -17,6 +17,6 @@ wget 사용
 
 ---
 
-All copyrights are available to Optifine.
+All copyrights are available to Minecraft.
 
 ___
