@@ -1,6 +1,6 @@
 ***
 
-공동 작업자: @AnVeid
+공동 작업자: [@AnVeid](https://github.com/AnVeid)
 
 ___
 
