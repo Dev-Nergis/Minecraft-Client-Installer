@@ -1,7 +1,10 @@
+***
+
+공동 작업자: @AnVeid
+
 ___
 
 # Optifine-Installer
-코드는 공유 안함
 
 ---
 
