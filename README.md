@@ -17,6 +17,8 @@ wget 사용
 
 ---
 
-All copyrights are available to [**Minecraft**](https://www.minecraft.net).
+"[Minecraft](https://www.minecraft.net)" is a trademark of Mojang AB
+
+Minecraft [Eula](https://account.mojang.com/documents/minecraft_eula)
 
 ___
