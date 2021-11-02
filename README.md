@@ -4,27 +4,16 @@
 
 ___
 
-# Optifine-Installer
+# Minecraft-Client-Installer
 
 ---
 
 wget 사용
 
-윈도우 전용
+윈도우 or 리눅스
 
----
-
-All copyrights are available to Optifine.
-
-___
-
-# Optifine-Installer-Linux
-
----
-
-리눅스 전용
-
-Thanks for BAN_NO77
+이제 OptifineㅣFabricㅣForgeㅣImpact Client
+지원
 
 ---
 
