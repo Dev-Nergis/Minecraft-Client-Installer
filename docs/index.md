@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+___
 
-You can use the [editor on GitHub](https://github.com/BAN-NO77/Minecraft-Client-Installer/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Oracle Java SE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+●[OpenJDK](https://jdk.java.net/)
+●[JAVA 8](https://www.java.com/ko/download/manual.jsp)
+●[JDK 8](https://www.oracle.com/java/technologies/downloads/#java8)
+●[JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
+●[JDK 12](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html)
+●[JDK 13](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html)
+●[JDK 14](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html)
+●[JDK 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+●[JDK 16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html)
+●[JAVA Uninstall Tool](https://www.java.com/ko/download/uninstalltool.jsp)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+●[Oracle Technology Network License Agreement for Oracle Java SE](https://www.oracle.com/downloads/licenses/javase-license1.html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BAN-NO77/Minecraft-Client-Installer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+___
