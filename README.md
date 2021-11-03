@@ -8,9 +8,9 @@ ___
 
 ---
 
-Works on **Windows**, **Mac** and **Linux**
+지원 OS **Windows**, **Mac** and **Linux**
 
-Supports **Optifine**, **Forge**, **Fabric**, **Impact Client**
+지원 클라이언트 **Optifine**, **Forge**, **Fabric**, **Impact Client**
 
 ---
 
