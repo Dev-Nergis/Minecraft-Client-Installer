@@ -22,8 +22,6 @@ Oracle Java SE [Download](http://www.m-c-i.kro.kr/)
 
 ---
 
----
-
 핫픽스! 
 
 지금 1.16.5 버전의 Optifine 링크중 일부가 작동하지 않는 현상을 발견! 조치중!
