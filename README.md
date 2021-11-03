@@ -26,7 +26,7 @@ Hotfix!
 
 지금 1.16.5 버전의 Optifine 링크 중 일부가 작동하지 않는 현상을 발견! 조치 중!
 
-조치 완료 :https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/MCI6.1.0
+조치 완료 : https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/MCI6.1.0
 https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/2.1.0
 
 ___
