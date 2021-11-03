@@ -28,7 +28,7 @@ Oracle Java SE [**Download**](http://www.m-c-i.kro.kr/)
 
 지금 1.16.5 버전의 Optifine 링크가 작동하지 않는 현상을 발견!
 
-조치 완료 : [**링크 1**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/MCI6.1.0), [**링크 2**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/2.1.0)
+조치 완료 : [**링크 1**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/MCI6.1.0), [**링크 2**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/2.1.0), [**링크 3**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/L3.1.0)
 
 ___
 
