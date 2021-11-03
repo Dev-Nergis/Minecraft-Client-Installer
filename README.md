@@ -2,7 +2,7 @@
 ___
 
 
-개발자들 : [@BAN_NO77](https://github.com/BAN-NO77), [@AnVeid](https://github.com/AnVeid)
+개발자들 : [**@BAN_NO77**](https://github.com/BAN-NO77), [**@AnVeid**](https://github.com/AnVeid)
 
 ---
 
@@ -16,7 +16,7 @@ ___
 
 ---
 
-Oracle Java SE [Download](http://www.m-c-i.kro.kr/)
+Oracle Java SE [**Download**](http://www.m-c-i.kro.kr/)
 
 ---
 
@@ -32,5 +32,5 @@ Oracle Java SE [Download](http://www.m-c-i.kro.kr/)
 
 ___
 
-[English](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/English)
+[**English**](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/English)
 ___
