@@ -27,6 +27,7 @@ wget 사용
 ●[JDK 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
 ●[JDK 16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html)
 ●[JAVA Uninstall Tool](https://www.java.com/ko/download/uninstalltool.jsp)
+
 ●[Oracle Technology Network License Agreement for Oracle Java SE](https://www.oracle.com/downloads/licenses/javase-license1.html)
 
 ---
