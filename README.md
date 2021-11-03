@@ -1,4 +1,4 @@
----
+___
 
 공동 작업자: [@AnVeid](https://github.com/AnVeid)
 
@@ -31,4 +31,4 @@ Oracle Java SE [Download](http://www.m-c-i.kro.kr/)
 조치완료 :https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/MCI6.1.0
 https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/2.1.0
 
----
+___
