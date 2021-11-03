@@ -10,7 +10,7 @@ ___
 
 ---
 
-지원 OS **Windows**[(?)](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/Windows), **Mac**[(?)](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/Mac), **Linux**
+지원 OS **Windows**[(?)](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/Windows), **Mac**[(?)](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/Mac), **Linux**[(?)](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/Linux)
 
 지원 클라이언트 **Optifine**, **Forge**, **Fabric**, **Impact Client**
 
