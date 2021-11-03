@@ -6,7 +6,7 @@ ___
 
 ---
 
-# **Minecraft Client Installer** [English](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/English)
+# **Minecraft Client Installer**
 
 ---
 
