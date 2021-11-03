@@ -1,15 +1,12 @@
 
 ___
 
-[English](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/English)
-
----
 
 개발자들 : [@BAN_NO77](https://github.com/BAN-NO77), [@AnVeid](https://github.com/AnVeid)
 
 ---
 
-# **Minecraft Client Installer**
+# **Minecraft Client Installer** [English](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/English)
 
 ---
 
