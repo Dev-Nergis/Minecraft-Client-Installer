@@ -16,7 +16,7 @@ ___
 
 ---
 
-Oracle Java SE [**Download**](http://www.m-c-i.kro.kr/)
+Oracle Java SE [**Download**](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/Oracle-Java-SE)
 
 ---
 
