@@ -4,7 +4,7 @@
 
 ___
 
-**Minecraft Client Installer**
+# **Minecraft Client Installer**
 
 ---
 
