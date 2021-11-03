@@ -8,9 +8,9 @@ ___
 
 ---
 
-지원 OS **Windows**, **Mac** and **Linux**
+Supported OS **Windows**, **Mac** and **Linux**
 
-지원 클라이언트 **Optifine**, **Forge**, **Fabric**, **Impact Client**
+Supported Clients **Optifine**, **Forge**, **Fabric**, **Impact Client**
 
 ---
 
@@ -22,7 +22,7 @@ Oracle Java SE [Download](http://www.m-c-i.kro.kr/)
 
 ---
 
-핫픽스! 
+Hotfix! 
 
 지금 1.16.5 버전의 Optifine 링크중 일부가 작동하지 않는 현상을 발견! 조치중!
 
