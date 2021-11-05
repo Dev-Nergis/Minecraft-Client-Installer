@@ -29,8 +29,6 @@ Oracle Java SE [**Download**](https://github.com/BAN-NO77/Minecraft-Client-Insta
 통합 설치기 리눅스 버전 완성!
 
 내일 11/6일 릴리즈!
-
-![image description](https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/resource/GIF/coming%20soon.png?raw=true)
 ___
 
 [**English**](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/English)
