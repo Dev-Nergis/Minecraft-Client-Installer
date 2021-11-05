@@ -24,12 +24,13 @@ Oracle Java SE [**Download**](https://github.com/BAN-NO77/Minecraft-Client-Insta
 
 ---
 
-핫픽스! 
+새로운 릴리즈!
 
-지금 1.16.5 버전의 Optifine 링크가 작동하지 않는 현상을 발견!
+통합 설치기 리눅스 버전 완성!
 
-조치 완료 : [**링크 1**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/MCI6.1.0), [**링크 2**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/2.1.0), [**링크 3**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/tag/L3.1.0)
+내일 11/6일 릴리즈!
 
+![image description](https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/resource/GIF/coming%20soon.png?raw=true)
 ___
 
 [**English**](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/English)
