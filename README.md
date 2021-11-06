@@ -20,7 +20,7 @@ Oracle Java SE [**Download**](https://github.com/BAN-NO77/Minecraft-Client-Insta
 
 ---
 
-[**Minecraft**](https://www.minecraft.net)" is a trademark of Mojang AB
+"[**Minecraft**](https://www.minecraft.net)" is a trademark of Mojang AB
 
 ---
 
