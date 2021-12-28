@@ -14,13 +14,11 @@ ___
 
 지원 클라이언트 **Optifine**, **Forge**, **Fabric**, **Impact Client**
 
+![](https://github.com/BAN-NO77/Optifine-Installer/raw/main/macOS.gif)
+
 ---
 
 Oracle Java SE [**Download**](https://github.com/BAN-NO77/Minecraft-Client-Installer/wiki/Oracle-Java-SE)
-
----
-
-"[**Minecraft**](https://www.minecraft.net)" is a trademark of Mojang AB
 
 ---
 
