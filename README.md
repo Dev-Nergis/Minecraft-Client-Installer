@@ -8,7 +8,7 @@ ___
 ___
 ## macOS, Linux 설치방법
 이 링크를 [**클릭**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)하셔서 .sh파일을 받고, 아래 명령어를 입력하세요.  
-**Homebrew**, **wget**과 **Java**가 설치되어 있지 않다면 메뉴에서 설치하세요. (**macOS**용  [****Java****](https://www.oracle.com/java/technologies/downloads/#jdk17-mac)설치 링크)
+**Homebrew**, **wget**과 **Java**가 설치되어 있지 않다면 메뉴에서 설치하세요. (**macOS**용  [****Java****](https://www.oracle.com/java/technologies/downloads/#jdk17-mac) 설치 링크)
 
 <img src="https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/macOS.gif">
 
