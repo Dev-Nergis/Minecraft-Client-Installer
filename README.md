@@ -1,7 +1,7 @@
 ___
 # Minecraft Client Installer
 
-제작자 : [@BAN-NO77](https://github.com/BAN-NO77), [@AnVeid](https://github.com/AnVeid)
+제작자 : [**@BAN-NO77**](https://github.com/BAN-NO77), [**@AnVeid**](https://github.com/AnVeid)
 ___
 
 ## macOS, Linux 설치방법
