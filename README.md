@@ -9,6 +9,7 @@ ___
 <img src="https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/macOS.gif">
 
 ```
-chmod +x mci.sh
-./mci.sh
+$ cd Downloads
+$ chmod +x mci.sh
+$ ./mci.sh
 ```
