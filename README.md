@@ -1,5 +1,7 @@
 ___
 
 # Minecraft Client Installer
+___
 
-마인크래프트 모드 클라이언트를 설치하는 간단한 방법.
+제작자 : @BAN-NO77, @AnVeid
+이 링크를 [클릭](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)하여 .sh파일을 받는다
