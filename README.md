@@ -1,7 +1,6 @@
 ___
 
 # Minecraft Client Installer
-___
 
 제작자 : @BAN-NO77, @AnVeid
 ___
