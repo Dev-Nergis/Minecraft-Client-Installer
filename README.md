@@ -6,7 +6,7 @@ ___
 ## Windows 설치방법
 이 링크를 [**클릭**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCI6.1.0/Minecraft_Client_Installer.zip)하여 파일을 받고 압축을 풀은 후, 파일을 실행하세요.
 
-<img src="https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/Windows.gif">
+<img src="https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/Windows.png">
 
 ___
 ## macOS, Linux 설치방법
