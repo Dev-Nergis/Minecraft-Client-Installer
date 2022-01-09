@@ -8,7 +8,7 @@ ___
 ___
 ## macOS, Linux 설치방법
 `
-/bin/bash -c "$(curl -fsSL https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)"
+bash -c "$(curl -fsSL https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)"
 `
 
 터미널에서 위 명령어를 입력하시면 자동으로 설치 화면이 터미널에 뜹니다.  
