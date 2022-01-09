@@ -8,7 +8,7 @@ ___
 ___
 ## macOS, Linux 설치방법
 터미널에서 아래 명령어를 입력하시면 자동으로 설치 화면이 뜰겁니다.  
-　　　● 
+　　　• 
 `
 bash -c "$(curl -fsSL https://t.ly/NTLL)"
 `
