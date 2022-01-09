@@ -12,7 +12,7 @@ ___
 
 <img src="https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/macOS.gif">
 
-`
+```
 $ /bin/bash -c "$(curl -fsSL https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)"
-`
+```
 ___
