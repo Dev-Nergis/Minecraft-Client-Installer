@@ -14,7 +14,8 @@ macOS **터미널**에서 아래 **명령어**를 **입력**하시면 **자동**
 　　• 
 `
 bash -c "$(curl -fsSL https://t.ly/NTLL)"
-`　
+`
+
 다른 방법으로 **.sh**파일을 받고 아래 **명령어**를 **입력**하여 **실행**하는 방법이 있습니다.
 
 <img src="https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/macOS.gif">
