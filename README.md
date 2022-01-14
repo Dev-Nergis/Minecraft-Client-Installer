@@ -19,7 +19,7 @@ bash -c "$(curl -fsSL https://t.ly/NTLL)"
 다른 방법으로 **.sh**파일을 **직접**받는 방법이 있습니다. 아래 **명령어**를 **입력**하여 **실행**하세요.  
 　　• 
 `
-wget https://t.ly/NTLL ; chmod +x mci.sh ; ./mci.sh
+wget https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/mci.sh ; chmod +x mci.sh ; ./mci.sh
 `
 
 <img src="https://github.com/BAN-NO77/Minecraft-Client-Installer/blob/main/macOS.gif">
