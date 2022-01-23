@@ -11,13 +11,13 @@ ___
 ___
 ## macOS, Linux 설치방법
 macOS **터미널**에서 아래 **명령어**를 **입력**하시면 **자동**으로 설치 화면이 뜰겁니다.  
- - 
+   - 
 `
 bash -c "$(curl -fsSL https://t.ly/NTLL)"
 `
 
 다른 방법으로 **.sh**파일을 여길 클릭하여 [**직접**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)받고 아래 **명령어**를 **입력**하여 **실행**하는 방법이 있습니다.  
- - 
+   -
 `
 chmod +x mci.sh ; ./mci.sh
 `
