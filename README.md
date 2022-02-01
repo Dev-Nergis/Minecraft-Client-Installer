@@ -11,7 +11,7 @@ ___
 ___
 ## macOS, Linux 설치방법
    
-**.sh**파일을 여길 클릭하여 [**직접**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)받고 **다운로드** 폴더로 이동 후 아래 **명령어**를 **입력**하세요.   
+**.sh**파일을 여길 **클릭**하여 [**직접**](https://github.com/BAN-NO77/Minecraft-Client-Installer/releases/download/MCIL1.1.0/mci.sh)받고 **다운로드** 폴더로 이동 후 아래 **명령어**를 **입력**하세요.   
 `
 chmod +x mci.sh ; ./mci.sh
 `
